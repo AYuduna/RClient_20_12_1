@@ -176,7 +176,8 @@ export class Employee extends Component {
       DepartmentN,
       DateOfJoining,
       PhotoPath,
-      PhotoFileName
+      PhotoFileName,
+      DepartmentName
     } = this.state;
 
     return (
